@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idBienvenida" type="id" />
+    <item name="idRegistro" type="id" />
+    <item name="idCrearUsuario" type="id" />
+    <item name="idBtnLogin" type="id" />
+</resources>
