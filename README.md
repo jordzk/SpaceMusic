@@ -8,3 +8,8 @@ Este es un reproductor de música simple desarrollado para dispositivos Android.
 - **Biblioteca de Música:** Escaneo automático de la biblioteca de música del dispositivo.
 - **Personalización:** Opciones de personalización de la interfaz, como temas de color.
 - **Controles de Audio:** Controles de volumen integrados y soporte para auriculares.
+
+## Tecnologías Utilizadas
+
+- **Lenguaje de Programación:** Java
+- **Framework:** Android SDK
