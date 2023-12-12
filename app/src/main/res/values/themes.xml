@@ -4,6 +4,7 @@
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryInverse">@color/colorPrimaryInverse</item>
         <item name="android:windowLightStatusBar">true</item>
     </style>
 

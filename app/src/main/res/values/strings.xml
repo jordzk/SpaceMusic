@@ -17,4 +17,7 @@
     <string name="registro">Registro</string>
     <string name="iniciar_sesion">Iniciar Sesion</string>
     <string name="cancelar">Cancelar</string>
+    <string name="home" />
+    <string name="search" />
+    <string name="menubook" />
 </resources>

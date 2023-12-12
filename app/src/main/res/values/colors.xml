@@ -2,4 +2,5 @@
 <resources>
     <color name="colorPrimary">#1f2c34</color>
     <color name="colorPrimaryDark">#fffbfe</color>
+    <color name="colorPrimaryInverse">#000000</color>
 </resources>
