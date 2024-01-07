@@ -9,9 +9,11 @@
     <com.google.android.material.tabs.TabLayout
         android:layout_width="409dp"
         android:layout_height="wrap_content"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="683dp">
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/itabHome"

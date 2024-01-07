@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987280914385",
+    "project_id": "spacemusic-de55f",
+    "storage_bucket": "spacemusic-de55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987280914385:android:7bc6bcc451db198ceb92f0",
+        "android_client_info": {
+          "package_name": "com.example.spacemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNojV34pFgCqKuEHWUW88B4lSGn1P19MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

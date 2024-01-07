@@ -4,13 +4,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity {
-    private TextView txtRegistro;
+
     private Button btnLogin;
 
     @Override
@@ -19,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        txtRegistro = findViewById(R.id.txtRegistro);
+
         btnLogin = findViewById(R.id.btnLogin);
 
 
@@ -31,14 +30,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        txtRegistro.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, RegistrarActivity.class);
-                startActivity(intent);
-
-            }
-        });
     }
 }
 

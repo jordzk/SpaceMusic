@@ -7,20 +7,6 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/txtRegistro"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="164dp"
-        android:text="@string/registrate_aqui"
-        android:textAlignment="center"
-        android:textColor="#0277BD"
-        android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:text="Registrate Aqui" />
-
-    <TextView
         android:id="@+id/txtBienvenida"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -79,20 +65,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.62"
+        app:layout_constraintVertical_bias="0.683"
         tools:text="Ingresar" />
-
-    <TextView
-        android:id="@+id/txtCrearUser"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="216dp"
-        android:text="@string/no_te_has_registrado"
-        android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:text="¿No te has registrado?" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
